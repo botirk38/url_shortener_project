@@ -87,4 +87,4 @@ To do:
 - Creation of a front end 
 
 ## Contact
-Created by [@botirk38](https://www.flynerd.pl/) - feel free to contact me!
+Created by @botirk38. Contact me at ZLAC172@live.rhul.ac.uk
