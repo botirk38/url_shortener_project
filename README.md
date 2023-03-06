@@ -24,9 +24,26 @@
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+Package           Version
+----------------- -------
+- anyio             3.6.2
+- click             8.1.3
+- decorator         5.1.1
+- fastapi           0.92.0
+- flask-sqlalchemy  3.0.2
+- h11               0.14.0
+- idna              3.4
+- jsonschema        4.16.0
+- pip               22.2.2
+- pydantic          1.10.5
+- python-dotenv     0.21.1
+- setuptools        63.2.0
+- sniffio           1.3.0
+- SQLAlchemy        2.0.3
+- starlette         0.25.0
+- typing_extensions 4.5.0
+- uvicorn           0.20.0
+- validators        0.20.0
 
 
 ## Features
