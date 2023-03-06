@@ -24,7 +24,6 @@
 
 
 ## Technologies Used
-Package           Version
 ----------------- -------
 - anyio             3.6.2
 - click             8.1.3
