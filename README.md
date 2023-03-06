@@ -47,9 +47,13 @@
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Create a shortened URL
+- Create a custom URL Key
+- Forward to target urls using the shortened URL
+- Deleting URLS from the database
+- Managing who is using your URL
+- Implements graceful forwarding which checks if the website exists before forwarding
+- Peek URL mechanism so the user knows what URL they are being forwarded to
 
 
 ## Screenshots
@@ -58,9 +62,15 @@ List the ready features here:
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+The project's dependiences are stored within a requirements.txt available in the repo
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+To run this project download it locally from the Github repo
+
+```
+cd ../url_shortener_project
+pip install -r requirements.txt
+uvicorn shortener_app.main:app --reload
+```
 
 
 ## Usage
