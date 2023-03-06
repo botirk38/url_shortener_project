@@ -71,36 +71,20 @@ pip install -r requirements.txt
 uvicorn shortener_app.main:app --reload
 ```
 
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _complete_
 
 
 ## Room for Improvement
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- Create a frontend for better user experience and ease of use
+- Could improve on the efficiency of the algorithms used
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
-
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
+- Deployment on Heroku
+- Creation of a front end 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@botirk38](https://www.flynerd.pl/) - feel free to contact me!
